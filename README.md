@@ -58,12 +58,13 @@ To build a binary classification model that predicts whether a person earns `>50
 
 ## 📷 Sample Output Screenshots
 
-#### ✅ Data Cleaning and Preprocessing
-(screenshots/sample op1.png)
+## 📷 Sample Output Screenshots
 
+#### ✅ Data Cleaning and Preprocessing
+![Data Cleaning](sample_op1.png)
 
 #### ✅ Model Performance Summary and Final Output
-(screenshots/sample op2.png)
+![Model Performance](sample_op2.png)
 
 
 ---
